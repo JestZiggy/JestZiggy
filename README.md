@@ -34,8 +34,7 @@ I am interested in both front-end and back-end development, and want to be invol
 
 Here are the current projects I am working on:
 
- - A makerspace management tool using Django Web framework.
- - A 3D Game Engine written in C++ using OpenGL.
+ - A social media app for fitness and positivity.
 
 ### Here's Where You Can Connect!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-sutton-5b0157282/) 
